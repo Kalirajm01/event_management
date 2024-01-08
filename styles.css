@@ -101,3 +101,11 @@ footer {
   left: 0;
   width: 100%;
 }
+
+a{
+  font-size: 20px;
+  font-family: DM Sans;
+  font-weight: bolder;
+  color: #2272FF;
+  text-decoration: none;
+}
